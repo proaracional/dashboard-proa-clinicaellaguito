@@ -79,7 +79,7 @@ df["Grupo_servicio"] = df["Servicio"].map({
 # ========================
 
 st.sidebar.image(
-    r"D:\Users\Usuario\Desktop\logo_proa.png",
+    "logo_proa.png",
     use_container_width=True  # ✅ reemplazo correcto
 )
 
